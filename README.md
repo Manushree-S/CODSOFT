@@ -42,7 +42,7 @@ A task management application that allows users to add, delete, and track daily 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Manushree-S/codsoft.git
+   git clone https://github.com/Manushree-S/CODSOFT.git
    ```
 
 2. Navigate to the project folder:
